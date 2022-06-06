@@ -1,0 +1,4 @@
+outs:
+- md5: 3f92dde2a414ae799802c2ffc881b8ef
+  size: 21121
+  path: diag_buena_cov_mala.png
